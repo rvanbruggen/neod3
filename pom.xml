@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>neod3</artifactId>
-    <version>fee9a9adeb</version>
+    <version>0.0-SNAPSHOT</version>
     <name>neo3d</name>
     <description>WebJar for neo3d</description>
     <url>http://webjars.org</url>
@@ -54,7 +54,7 @@
         <url>http://github.com/webjars/neod3</url>
         <connection>scm:git:https://github.com/webjars/neod3.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/neod3.git</developerConnection>
-        <tag>neod3-fee9a9adeb</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
